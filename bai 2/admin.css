@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    border: 1px solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.container-admin{
+    display: flex;
+    width: 100%;
+    height: 500px;
+}
+.left{
+    width: 20%;
+    height: 100%;
+    text-align: center;
+}
+.product, .order{
+    margin-top: 50px;
+}
+.right{
+    width: 80%;
+    height: 100%;
+    text-align: center;
+}
+.menu-admin{
+    width: 100%;
+    height: 100px;
+}
+.list-user{
+    width: 100%;
+    height: 400px;
+}
